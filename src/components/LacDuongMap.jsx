@@ -150,7 +150,7 @@ const LacDuongMap = () => {
             className="btn btn-secondary btn-sm me-3 mb-1"
             onClick={() => setShowHeatmap(!showHeatmap)}
           >
-            {showHeatmap ? "Hiện icon" : "Hiện phân bố"}
+            {showHeatmap ? "Ấn phân bố" : "Hiện phân bố"}
           </button>
           <button
             className="btn btn-secondary btn-sm me-3 mb-1"
